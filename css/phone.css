@@ -1,0 +1,37 @@
+@media (max-width:376px) {
+    .container {
+        width: 100%;
+        padding-top: 0;
+    }
+    #userList {
+        justify-content: flex-start;
+    }
+    .user {
+        width: 100%;
+    }
+    .username,
+    .user .gitlink {
+        width: 280px;
+    }
+    .search {
+        width: 27%;
+    }
+    #searchInput {
+        width: 73%;
+    }
+    #searchInput,
+    .search {
+        height: 40px;
+        padding: 0px 10px;
+        font-size: 14px;
+    }
+    #historyBox {
+        width: 73%;
+    }
+    .history {
+        padding: 3px 10px;
+    }
+    .history .text {
+        font-size: .8rem;
+    }
+}
