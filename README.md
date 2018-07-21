@@ -1,3 +1,3 @@
 # github-user-search
 
-[linkto](https://wuyouhuaz.github.io/github-user-search/inde.html)
+[linkto](https://wuyouhuaz.github.io/github-user-search/)
